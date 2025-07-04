@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/185576/pexels-photo-185576.jpeg)
+![MasterHead](https://images.pexels.com/photos/185576/pexels-photo-185576.jpeg)
 <h1 align="center">Hi 👋, I'm Hamad Kamorudeen</h1>
 <h3 align="center">Turning data into decisions, one insight at a time.</h3>
 

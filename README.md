@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **real-world data analysis projects that solve business problems**
 
-- 💬 Ask me about **Excel, Power Bi, SQL**
+- 💬 Ask me about **Excel, Power Bi, Python and SQL**
 
 - 📫 How to reach me **hamadkamorudeen@gmail.com**
 
